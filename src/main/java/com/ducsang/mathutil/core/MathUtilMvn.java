@@ -15,7 +15,7 @@ public class MathUtilMvn {
     public static final double PI = 3.1415;
     
     
-    //àm tính n! = 1.2.3.4
+    //hàm tính n! = 1.2.3.4
     // n< 0> 20 ko tính do 21! tràn kiểu long
     //ko tính giai thừa âm!!!
     //0! = 1! = 1

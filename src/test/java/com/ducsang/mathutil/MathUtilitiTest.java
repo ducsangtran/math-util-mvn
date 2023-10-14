@@ -44,7 +44,7 @@ public class MathUtilitiTest {
     //Status: PASSED | FALLED đoán xem, chờ code xong, chạy mới biết được
      @Test
     public void verifyFactorialGivenRightArgument1ReturnOk() throws IllegalAccessException{
-        assertEquals(1, MathUtilMvn.getFactorial(1));
+        assertEquals(1, MathUtilMvn.getFactorial(0));
         
     }
     //Test case #3: - Verify getFactorial(with n = 5)
